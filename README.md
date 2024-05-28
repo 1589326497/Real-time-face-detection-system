@@ -3,7 +3,7 @@
 在这篇博客中，我将介绍如何使用 ESP32 摄像头捕获图像，并通过 UDP 协议将图像传输到上位机进行实时人脸检测。我们将使用 Python 编程语言和 OpenCV 库来实现上位机端的人脸检测功能。
 
 **效果如下**
-![请添加图片描述](https://img-blog.csdnimg.cn/direct/6f1dc0bb61b94f4f9979190306ed07ef.jpeg)
+.csdnimg.cn/direct/6f1dc0bb61b94f4f9979190306ed07ef.jpeg)
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/direct/3445b077ae7448cb85273482c902c27b.png)
 
