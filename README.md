@@ -4,9 +4,10 @@
 
 **效果如下**
 ![image](https://github.com/1589326497/Real-time-face-detection-system/assets/113960039/6aba8e2c-e434-4d4e-a744-6dadd6ad44f8)
+![IMG20240528233141](https://github.com/1589326497/Real-time-face-detection-system/assets/113960039/f5692831-4203-4ab2-90cf-aa4209c08c87)
 
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/direct/3445b077ae7448cb85273482c902c27b.png)
+
 
 
 
